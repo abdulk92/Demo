@@ -1,1 +1,3 @@
 New file added to master repository
+
+Stash commands added
